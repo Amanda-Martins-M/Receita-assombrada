@@ -1,0 +1,40 @@
+
+h1 {
+    height: 8px;
+    color: rgba(255, 255, 255, 0.865);
+}
+
+body {
+    margin-left: 64px;
+    margin-right: 64px;
+    background-color: rgb(8, 0, 20);
+}
+
+.subtitulo {
+    color: rgb(165, 4, 4);
+font-size:24px;
+}
+
+p {
+    height: auto;
+    font-size: larger;
+    color: rgba(240, 248, 255, 0.932);
+}
+
+h2{
+    color: rgba(255, 255, 255, 0.865);
+}
+ul{
+    list-style-type: none;
+}
+ol{
+   list-style-type: decimal;
+}
+
+li {
+    color: rgba(255, 255, 255, 0.865);
+}
+h3{
+color:#991afa
+
+}
